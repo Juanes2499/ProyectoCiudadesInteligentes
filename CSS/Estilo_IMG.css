@@ -1,0 +1,5 @@
+.headerInicio {
+    background: url(../Images/Inicio_IMG_Principal2.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 60vh;
+}
